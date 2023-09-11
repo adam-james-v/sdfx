@@ -3,7 +3,7 @@ A Signed Distance Field art tool built with Clojure, WebGL, and HTMX.
 
 Signed Distance Fields and the operations you can perform on them allow you to create complex and cool shapes which make for really cool art pieces; particularly if you can plot them with a pen plotter (I'm partial to AxiDraw). To that end, I've made this tool to make it fun and easy to build SDFs.
 
-![](./examples/screen-recording.mov)
+![](./examples/screen-recording.mp4)
 ![](./examples/smooth-cube.svg)
 
 ## Getting Started
