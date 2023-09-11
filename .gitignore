@@ -12,3 +12,10 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.DS_Store
+/.clj-kondo/
+/.lsp/
+/output/
+/scratch/
+sdfx.org
+sdfx.org.md
